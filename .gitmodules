@@ -1,3 +1,4 @@
 [submodule "vllm-base-image/vllm"]
 	path = vllm-base-image/vllm
-	url = https://github.com/runpod/vllm-fork-for-sls-worker.git
+	url = https://github.com/NtTestAlert/vllm.git
+	branch = NtTestAlert/v0.9.2-kimi_k2
